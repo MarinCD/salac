@@ -1,0 +1,35 @@
+13/11/2024;15:08:16;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;n/a;Connexion échouée avec durand-a
+13/11/2024;15:10:09;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+13/11/2024;15:10:41;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+13/11/2024;15:10:48;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;n/a;Connexion échouée avec durand-a
+13/11/2024;15:14:41;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+13/11/2024;15:15:40;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_deconnect_exe.php;10.29.4.7;n/a;Deconnexion réussi pour 
+13/11/2024;15:16:33;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+13/11/2024;15:16:35;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_deconnect_exe.php;10.29.4.7;n/a;Deconnexion réussi pour
+14/11/2024;08:13:06;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+14/11/2024;08:13:07;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_deconnect_exe.php;10.29.4.7;n/a;Deconnexion réussi pour
+14/11/2024;08:19:13;A;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/;10.29.4.7;n/a;Connexion Obligatoire - 
+14/11/2024;08:19:46;A;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/index.php?page=ad_actu_main;10.29.4.7;n/a;Connexion Obligatoire - 
+14/11/2024;08:27:48;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+14/11/2024;08:40:31;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_deconnect_exe.php;10.29.4.7;n/a;Deconnexion réussi pour
+14/11/2024;08:40:36;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+14/11/2024;08:41:47;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_deconnect_exe.php;10.29.4.7;n/a;Deconnexion réussi pour
+14/11/2024;08:41:51;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+14/11/2024;08:41:54;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_deconnect_exe.php;10.29.4.7;n/a;Deconnexion réussi pour
+14/11/2024;08:41:56;A;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/;10.29.4.7;n/a;Connexion Obligatoire - 
+14/11/2024;08:42:04;A;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/index.php?page=ad_actu_main;10.29.4.7;n/a;Connexion Obligatoire - 
+14/11/2024;08:42:09;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+15/11/2024;10:24:20;A;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/;10.29.4.7;n/a;Connexion Obligatoire - 
+15/11/2024;10:34:38;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;n/a;Connexion échouée avec durand-a
+15/11/2024;10:35:58;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+15/11/2024;10:36:01;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_deconnect_exe.php;10.29.4.7;durand-a;Deconnexion réussi pourdurand-a
+15/11/2024;10:37:25;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+15/11/2024;10:37:31;R;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_deconnect_exe.php;10.29.4.7;durand-a;Deconnexion réussi pourdurand-a
+15/11/2024;10:44:39;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+18/11/2024;11:07:27;A;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/;10.29.4.7;n/a;Connexion Obligatoire 
+18/11/2024;11:07:32;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+18/11/2024;13:26:59;A;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/;10.29.4.7;n/a;Connexion Obligatoire 
+18/11/2024;13:27:00;A;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/;10.29.4.7;n/a;Connexion Obligatoire 
+18/11/2024;13:27:20;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
+18/11/2024;15:11:19;A;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/;10.29.4.7;n/a;Connexion Obligatoire 
+18/11/2024;15:11:23;I;/devweb/SALAC/SALAC-B3%20-%20SECU/administration/ad_login_exe.php;10.29.4.7;durand-a;Connexion Réussi
